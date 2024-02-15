@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Sinework negasi - [Github](https://github.com/Sineworknegasi) / [Tiktok](https://www.tiktok.com/@sinework_negasi)  
+Nebiyu Daniel - [Github](https://github.com/nebexz)   
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copywrite protection. 
